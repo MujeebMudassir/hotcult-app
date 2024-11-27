@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.233a9e11.css",
+    "main.js": "/static/js/main.8e4041fb.js",
+    "static/js/453.68184fea.chunk.js": "/static/js/453.68184fea.chunk.js",
+    "static/media/tribecca-2022.webp": "/static/media/tribecca-2022.8a6c987a469f2a219268.webp",
+    "static/media/white-image.jpg": "/static/media/white-image.43b1ae77e00400cdd696.jpg",
+    "index.html": "/index.html",
+    "main.233a9e11.css.map": "/static/css/main.233a9e11.css.map",
+    "main.8e4041fb.js.map": "/static/js/main.8e4041fb.js.map",
+    "453.68184fea.chunk.js.map": "/static/js/453.68184fea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233a9e11.css",
+    "static/js/main.8e4041fb.js"
+  ]
+}
