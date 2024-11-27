@@ -1,0 +1,64 @@
+@keyframes myKeyframe {
+    0% {
+        transform: translateY(200px);
+        opacity: 0 !important;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1 !important;
+    }
+}
+
+.AnimatedFor {
+    animation-name: myKeyframe !important;
+    animation-duration: 2.5s;
+    animation-delay: 0s; /* Delay before the animation starts */
+    transition: all 0.5s ease-in-out; /* Remove quotes around transition values */
+    opacity: 1;
+    top: -90px;
+    /* margin-right: 10px; Remove quotes around the margin */
+}
+
+@keyframes myKeyframethe {
+    0% {
+        transform: translateX(-50px);
+        /* opacity: 0; */
+
+    }100% {
+        transform: translateX(0px);
+        /* opacity: 1; */
+    }
+}
+
+.AnimatedForthe {
+    
+    animation-name: myKeyframethe;
+    animation-duration: 2.5s;
+    animation-delay: 0s;
+    display: "inline-block";
+    transition: "transform 0.5s ease-in-out";
+    /* margin-right: "10px"; */
+}
+
+
+@keyframes myKeyframeArrow {
+    0% {
+        transform: translateY(50px);
+        opacity: 0;
+
+    }100% {
+        transform: translateY(0px);
+        opacity: 0.5;
+    }
+}
+
+.AnimatedForArrow {
+    
+    animation-name: myKeyframeArrow;
+    animation-duration: 1.5s;
+    animation-delay: 0s;
+    display: "inline-block";
+    transition: "transform 0.5s ease-in-out";
+    opacity: 0.5;
+    /* margin-right: "10px"; */
+}
