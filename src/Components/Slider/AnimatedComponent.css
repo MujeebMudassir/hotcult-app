@@ -1,0 +1,34 @@
+.main-container {
+    padding: 20px;
+  }
+  
+  .animated-title {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  .highlight {
+    color: #007bff;
+  }
+  
+  .image-gallery {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .gallery-item {
+    width: 300px;
+    text-align: center;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .image-caption {
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  
